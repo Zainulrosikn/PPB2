@@ -1,6 +1,4 @@
-package com.example.crud_api_achmadnurrozikin
-
-import DataItem
+package com.example.crud_api_ari_setiawan
 import com.google.gson.annotations.SerializedName
 data class ResultStaff (
     @field:SerializedName("pesan")
