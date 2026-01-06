@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools">
+<<<<<<< HEAD
     <uses-permission android:name="android.permission.INTERNET"/>
+=======
+
+>>>>>>> 9088957c7cf1192c91c41a438ed92584830454a3
     <application
         android:allowBackup="true"
         android:dataExtractionRules="@xml/data_extraction_rules"
@@ -10,12 +14,17 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
+<<<<<<< HEAD
         android:theme="@style/Theme.Crud_Api_ari_setiawan"
         tools:targetApi="31"
         android:usesCleartextTraffic="true">
         <activity
             android:name=".UpdateAddActivity"
             android:exported="false" />
+=======
+        android:theme="@style/Theme.Crud_api_achmadnurrozikin"
+        tools:targetApi="31">
+>>>>>>> 9088957c7cf1192c91c41a438ed92584830454a3
         <activity
             android:name=".MainActivity"
             android:exported="true">

@@ -1,3 +1,7 @@
 <resources>
+<<<<<<< HEAD
     <string name="app_name">Crud_Api_ari_setiawan</string>
+=======
+    <string name="app_name">Crud_api_achmadnurrozikin</string>
+>>>>>>> 9088957c7cf1192c91c41a438ed92584830454a3
 </resources>

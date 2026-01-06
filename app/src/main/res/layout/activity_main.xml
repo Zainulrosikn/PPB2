@@ -14,6 +14,7 @@
         android:layout_height="match_parent"
         android:layout_above="@+id/btnTambah">
     </androidx.recyclerview.widget.RecyclerView>
+<<<<<<< HEAD
 
     <Button
         android:id="@+id/btnTambah"
@@ -24,4 +25,14 @@
         android:text="Tambah"
         android:textColor="#212121"
         tools:ignore="VisualLintButtonSize" />
+=======
+    <Button
+        android:id="@+id/btnTambah"
+        android:text="Tambah"
+        android:background="@android:color/holo_green_dark"
+        android:textColor="@android:color/white"
+        android:layout_width="match_parent"
+        android:layout_alignParentBottom="true"
+        android:layout_height="wrap_content"/>
+>>>>>>> 9088957c7cf1192c91c41a438ed92584830454a3
 </RelativeLayout>
